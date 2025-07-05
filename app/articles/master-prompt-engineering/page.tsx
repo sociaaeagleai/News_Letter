@@ -21,7 +21,7 @@ export default function PromptEngineeringArticle() {
             </div>
             <div className="flex items-center gap-2">
               <User className="h-4 w-4" />
-              <span>Jordan Lee</span>
+              <span>SocialEgle.AI</span>
             </div>
           </div>
           <button className="text-gray-400 hover:text-gray-300 transition-colors">
