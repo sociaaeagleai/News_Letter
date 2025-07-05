@@ -24,7 +24,7 @@ const articles = [
 {
   id: 2,
   slug: "master-prompt-engineering",
-  image: "/images/prompt.png",
+  image: "/images/prompt.jpg",
   headline: "Master Prompt Engineering in 10 Minutes",
   teaser: "Learn the essential techniques that separate amateur prompts from professional-grade AI interactions.",
   readTime: "10 min read",
@@ -33,7 +33,7 @@ const articles = [
   {
     id: 3,
     slug: "ai-automation-tools-productivity",
-    image: "/images/Automation.png",
+    image: "/images/Automation.jpg",
     headline: "AI Automation Tools That Actually Save Time",
     teaser: "Cut through the hype and discover the automation tools that deliver real productivity gains.",
     readTime: "7 min read",
@@ -46,7 +46,7 @@ const trustedBy = [
     id: 1,
     name: "Ananya Sri",
     designation: "",
-    image: "/images/avatar..png",
+    image: "/images/avatar4.png",
   },
   {
     id: 2,
