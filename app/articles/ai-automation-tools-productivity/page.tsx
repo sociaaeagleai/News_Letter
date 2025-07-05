@@ -40,7 +40,7 @@ export default function AIAutomationToolsArticle() {
 
         <div className="aspect-video rounded-2xl overflow-hidden mb-8">
           <Image
-            src="/images/Automation.png"
+            src="/images/Automation.jpg"
             alt="AI Automation Tools"
             width={800}
             height={450}
