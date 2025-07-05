@@ -40,7 +40,7 @@ export default function PromptEngineeringArticle() {
 
         <div className="aspect-video rounded-2xl overflow-hidden mb-8">
           <Image
-            src="/images/prompt.png"
+            src="/images/prompt.jpg"
             alt="Prompt Engineering Mastery"
             width={800}
             height={450}
