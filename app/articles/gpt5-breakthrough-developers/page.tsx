@@ -40,7 +40,7 @@ export default function AIWritingAssistantsLongArticle() {
 
         <div className="aspect-video rounded-2xl overflow-hidden mb-8">
           <Image
-            src="/images/ai-writing.png"
+            src="/images/ai-writing.jpg"
             alt="Next-Level AI Writing Assistants"
             width={800}
             height={450}
