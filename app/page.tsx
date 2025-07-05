@@ -14,7 +14,7 @@ const articles = [
   {
     id: 1,
     slug: "gpt5-breakthrough-developers",
-    image: "/images/thumb.png",
+    image: "/images/Automation.jpg",
     headline: "Next-Level AI Writing Assistants to Supercharge Your Content in 2025",
     teaser:
       "Discover the smartest AI writing tools that help you draft, edit, and publish content faster than ever — without losing your unique voice.",
@@ -33,7 +33,7 @@ const articles = [
   {
     id: 3,
     slug: "ai-automation-tools-productivity",
-    image: "/images/Automation.jpg",
+    image: "/images/thumb.jpg",
     headline: "AI Automation Tools That Actually Save Time",
     teaser: "Cut through the hype and discover the automation tools that deliver real productivity gains.",
     readTime: "7 min read",
@@ -46,7 +46,7 @@ const trustedBy = [
     id: 1,
     name: "Ananya Sri",
     designation: "",
-    image: "/images/avatar4.png",
+    image: "/images/Avatar4.png",
   },
   {
     id: 2,
@@ -64,7 +64,7 @@ const trustedBy = [
     id: 5,
     name: "Kavya",
     designation: "",
-    image: "/images/Avatar3.png",
+    image: "/images/avatar3.png",
   },
   {
     id: 6,
