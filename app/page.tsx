@@ -181,7 +181,7 @@ export default function AINewsletterLanding() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1.2, delay: 0.3 }}
               >
-                <h1 className="text-6xl md:text-8xl font-bold mb-8 bg-gradient-to-r from-[#f538e8] via-[#884bfa] to-[#4c94f8] bg-clip-text text-transparent leading-tight relative">
+                <h1 className="text-6xl md:text-8xl mb-8 bg-gradient-to-r from-[#f538e8] via-[#884bfa] to-[#4c94f8] bg-clip-text text-transparent leading-tight relative font-[Archivo] font-extrabold">
                   Stay Ahead with the AI Edge
                   <motion.span
                     className="absolute -top-4 -right-4 text-2xl"
