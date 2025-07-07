@@ -38,7 +38,7 @@ export default function AIWritingAssistantsLongArticle() {
           marketers, and businesses that want to scale content without sacrificing quality.
         </p>
 
-        <div className="aspect-video rounded-2xl overflow-hidden mb-8">
+        <div className="w-full rounded-2xl overflow-hidden mb-8">
           <Image
             src="/images/Automation.jpg"
             alt="Next-Level AI Writing Assistants"
