@@ -293,7 +293,7 @@ export default function AINewsletterLanding() {
                   transition={{ duration: 0.6, delay: 1.5 + index * 0.1 }}
                   whileHover={{ y: -10, scale: 1.02 }}
                 >
-                  <div className="aspect-video overflow-hidden relative">
+                  <div className="aspect-[4/3] relative flex items-center justify-center overflow-hidden bg-black">
                     <Image
                       src={article.image || "/placeholder.svg"}
                       alt={article.headline}
