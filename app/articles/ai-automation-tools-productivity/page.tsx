@@ -38,7 +38,7 @@ export default function AIAutomationToolsArticle() {
           streamline your day-to-day work.
         </p>
 
-        <div className="aspect-video rounded-2xl overflow-hidden mb-8">
+        <div className="w-full rounded-2xl overflow-hidden mb-8">
           <Image
             src="/images/thumb.jpg"
             alt="AI Automation Tools"
