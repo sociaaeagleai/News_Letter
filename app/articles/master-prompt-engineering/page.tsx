@@ -38,7 +38,7 @@ export default function PromptEngineeringArticle() {
           that unlock powerful, consistent results.
         </p>
 
-        <div className="aspect-video rounded-2xl overflow-hidden mb-8">
+        <div className="w-full rounded-2xl overflow-hidden mb-8">
           <Image
             src="/images/prompt.jpg"
             alt="Prompt Engineering Mastery"
