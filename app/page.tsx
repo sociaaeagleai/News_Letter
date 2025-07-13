@@ -260,7 +260,7 @@ export default function AINewsletterLanding() {
                 {/* ✅ Text + lines below */}
                 <div className="flex items-center justify-center gap-4">
                   <div className="h-px bg-gradient-to-r from-transparent via-purple-500 to-transparent flex-1 max-w-32"></div>
-                  <p className="text-gray-400 text-sm font-medium px-4">Trusted by 30,000+ AI Enthusiast</p>
+                  <p className="text-gray-400 text-sm font-medium px-4">Trusted by 30,000+ AI Enthusiasts</p>
                   <div className="h-px bg-gradient-to-r from-transparent via-purple-500 to-transparent flex-1 max-w-32"></div>
                 </div>
               </motion.div>
