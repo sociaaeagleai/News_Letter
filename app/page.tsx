@@ -430,7 +430,7 @@ export default function AINewsletterLanding() {
                     <div>
                       <p className="text-gray-400 text-sm">
                         <span className="font-semibold text-white block mb-1">Address:</span>
-                        Social Eagle Academy
+                        Social Eagle Private Limited
                         <br />
                         No. 14-16, Global Hospital Road Junction,
                         <br />
@@ -440,7 +440,6 @@ export default function AINewsletterLanding() {
                         <br />
                         Chennai, Tamil Nadu 600100
                         <br />
-                        <span className="text-purple-400 font-medium">Virtual programs worldwide</span>
                       </p>
                     </div>
                   </div>
